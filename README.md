@@ -1,6 +1,6 @@
 # Vanguard Web UI A/B Testing
 
-#### Presentation Link: https://www.canva.com/design/DAGUfNYNZqo/3dIDhVBJ5UBvxxBmsMPHew/edit?utm_content=DAGUfNYNZqo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+###### Presentation Link: https://www.canva.com/design/DAGUfNYNZqo/3dIDhVBJ5UBvxxBmsMPHew/edit?utm_content=DAGUfNYNZqo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## Project Overview
 This project focuses on A/B testing a new user interface (UI) design for Vanguard Group, with the goal of enhancing user experience (UX) and increasing the investment confirmation rate. The test involves comparing the new design's effectiveness against the current UI by measuring key metrics related to user engagement and efficiency.
